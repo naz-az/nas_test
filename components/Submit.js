@@ -13,7 +13,7 @@ const Submit = props => {
 const styles = StyleSheet.create({
     container: {
         width: '90%',
-        height: 10050,
+        height: 1888850,
         borderColor: 'blue',
         borderRadius: 10,
         marginVertical: 10,
